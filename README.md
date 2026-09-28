@@ -32,7 +32,7 @@ Az eszköz saját Wi-Fi-hálózatot hoz létre, így internetkapcsolat és kül�
 
 A program Arduino IDE környezetben készült. A fordításhoz az ESP32-kártyacsomag, valamint a **HX711** és a Markus Sattler-féle **WebSockets** könyvtár szükséges.
 
-A főprogramot [Firmware – ESP32 forráskód](Firmware/wifimerleg_brodcast.ino)  és a  [böngészős kezelőfelületet](webp.h) ugyanabba a projektmappába kell helyezni.
+A főprogramot [Firmware – ESP32 forráskód](Firmware/wifimerleg_brodcast.ino)  és a  [böngészős kezelőfelületet](Firmware/webp.h) ugyanabba a projektmappába kell helyezni.
 
 A program feltöltése után csatlakozzunk a mérleg saját Wi-Fi-hálózatához:
 
